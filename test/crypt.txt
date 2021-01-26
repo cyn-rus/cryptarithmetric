@@ -1,0 +1,45 @@
+ SEND
+ MORE+
+------
+MONEY
+
+FORTY
+  TEN
+  TEN+
+------
+SIXTY
+
+ THREE
+ THREE
+   TWO
+   TWO
+   ONE+
+-------
+ELEVEN
+
+ DOUBLE
+ DOUBLE
+   TOIL+
+--------
+TROUBLE
+
+NUMBER
+NUMBER+
+-------
+PUZZLE
+
+  TILES
+PUZZLES+
+--------
+PICTURE
+
+ CLOCK
+  TICK
+  TOCK+
+-------
+PLANET
+
+ HERE
+  SHE+
+------
+COMES
