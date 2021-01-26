@@ -1,1 +1,1 @@
-# cryptarithmetic
+# Cryptarithmetic
