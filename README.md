@@ -21,7 +21,7 @@ python cryptarithmetic.py
 atau
 python3 cryptarithmetic.py
 ```
-4. Masukkan nama file yang sudah terisi dengan persoalan *cryptarithmetic* dan pastikan file tersebut berada di dalam ./cryptarithmetic/test
+4. Masukkan nama file yang sudah terisi dengan persoalan *cryptarithmetic* dan pastikan file tersebut berada di dalam ./cryptarithmetic/test, atau dengan file yang sudah tersedia, yaitu crypt.txt
 
 ## Identitas Pembuat
 Program ini dibuat oleh [@cyn-rus](https://github.com/cyn-rus) untuk menuntaskan tugas kecil 1 dari mata kuliah IF2211 Strategi Algoritma
